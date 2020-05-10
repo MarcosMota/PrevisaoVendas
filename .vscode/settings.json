@@ -1,3 +1,11 @@
 {
-    "r.lsp.path": "C:\\Program Files\\R\\R-4.0.0\\bin\\x64\\R.exe"
+    "r.lsp.path": "C:\\Program Files\\R\\R-4.0.0\\bin\\x64\\R.exe",
+    "r.rterm.option": [
+
+        "/k radian"
+    ],
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": ["radian"],
+    "r.bracketedPaste": true,
+    "r.alwaysUseActiveTerminal": true
 }
