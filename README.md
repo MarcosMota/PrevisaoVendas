@@ -8,7 +8,7 @@ Esse projeto consiste me aplicar analises de avançadas sobre o conjunto de dado
 ## Sumario
 
 > * [Abordagem Descritiva](#title--repository-name)
->   * [Analise Exploratória](#about--synopsis)
+>   * [Analise Exploratória](https://htmlpreview.github.io/?https://github.com/MarcosMota/PrevisaoVendas/blob/master/abordagem-descritiva/analise_exploratoria.html)
 >     * [Preparação e limpeza do conjunto](#title--repository-name)
 >     * [Identificar outliers](#title--repository-name)
 >     * [Identificar valores ausentes](#title--repository-name)
